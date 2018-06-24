@@ -10,3 +10,11 @@ openproj_contrib/openproj-contrib.jar
 openproj_contrib/openproj-reports.jar
 openproj_contrib/openproj-script.jar
 openproj_contrib/tmp/
+.idea
+openproj_contrib/openproj_contrib.iml
+openproj_core/openproj_core.iml
+openproj_exchange/openproj_exchange.iml
+openproj_reports/openproj_reports.iml
+openproj_ui/openproj_ui.iml
+projectlibre_core/projectlibre_core.iml
+projectlibre_exchange/projectlibre_exchange.iml

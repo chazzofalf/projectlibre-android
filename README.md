@@ -1,8 +1,6 @@
-# projectlibre
+# projectlibre-android
 
-The Open Source replacement of Microsoft Project
-
-![ProjectLibre_Gantt_Chart_Ribbon_UI](http://a.fsdn.com/con/app/proj/projectlibre/screenshots/ProjectLibre_Gantt.jpeg)
+Clone of projectlibre. An attempt to convert it to Android.
 
 Features
 --------
